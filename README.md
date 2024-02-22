@@ -69,3 +69,9 @@ C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\regasm.exe  /codebase %~dp0/BigE
 ### 注册
 
 内容准备完成后，以管理员权限运行 `register.bat` 即可。
+
+### 清除插件注册信息
+
+插件在注册时会向注册表新建 `HKEY_LOCAL_MACHINE\SOFTWARE\SolidWorks\AddIns\{GUID}` 和 `HKEY_CURRENT_USER\Software\SolidWorks\AddInsStartup\{GUID}` 两个条目，将这两条删除即可清理。
+
+本代码中默认GUID为 `43320236-ec4d-4da6-a851-97d911ee9998`。
