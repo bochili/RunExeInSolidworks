@@ -1,0 +1,4 @@
+批量出图,自动批量出图,C:\Users\11751\Desktop\SolidWorksPlugins\7733\BatchConvertPDFv2.exe
+文件格式批量转换,文件格式批量转换,C:\Users\11751\Desktop\SolidWorksPlugins\8651\BatchExportDrawings.exe
+链条,链条,C:\Users\11751\Desktop\SolidWorksPlugins\8651\BatchExportDrawings.exe
+等油耗法功率矫正,等油耗法功率矫正,C:\Users\11751\Desktop\SolidWorksPlugins\8651\BatchExportDrawings.exe
